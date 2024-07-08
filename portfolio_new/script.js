@@ -33,9 +33,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const projects = [
       // Your project data goes here (name, description, image, etc.)
       // Example:
-      { name: "Survey Form", description: " Using Html,css i have created a basic registration page <br><h4>Git hub repo link:", image: "project1.jpg" },
-      { name: "QUOTE GENERATOR", description: "Quote generator usinh html,css and javascript...here i used an api to fetch all the quotes to appear randomly,<br><h4>project link:", image: "project2.jpg" },
-      { name: "SuperStore Analysis", description: "using a superstore data i have impleted all the data inti pictorial reprentations including Graphs,charts..etx using concepts of DATAANALYTICS <br><h4> project link:", image: "project2.jpg" },
+      { name: "CloudML Sentiment Analysis", description: "• Orchestrated sentiment analysis using AWS Comprehend and Lambda for scalable serverless computing, ensuring precise insights and Managed integration of sentiment analysis models with AWS S3 and IAM roles, optimizing data storage, access control", image: "project1.jpg" },
+      { name: "Chrome Extension", description: "Engineered a robust Chrome extension using HTML, CSS, and JavaScript to generate secure passwords.Seamlessly integrated manifest.json for enhanced functionality, streamlined configuration, and optimized user interaction", image: "project2.jpg" },
+      { name: "Dictionary Application", description: "Crafted a Dictionary application using HTML, CSS, and JavaScript, integrated API fetching to retrieve word meanings,implemented audio functionality for pronunciation assistance,Deployed application using GitHub Actions for automated server deploymen:", image: "project2.jpg" },
   ];
 
   projects.forEach((project) => {
